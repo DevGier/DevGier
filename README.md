@@ -1,5 +1,5 @@
 # 👋 Hi there!
-## I'm Tim
+## 🕴 I'm Tim
 I am a Frontend Developer with a passion for building good-looking and interactive websites or applications.
 
 ## 🛠 Stack
